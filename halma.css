@@ -1,0 +1,25 @@
+body
+{
+background-color: #CD5C5C;
+} 
+h1 {text-align: center;
+}
+table{
+    width: 70%;
+    margin: auto;
+    border: solid 1px;
+    background-color: #E9967A;
+}
+.kep1 {
+    border: solid 1px;
+     
+}
+.közepre {
+    text-align: center;
+}
+.kep2 {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
